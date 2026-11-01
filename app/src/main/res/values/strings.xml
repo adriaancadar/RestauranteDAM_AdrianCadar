@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestauranteDAM_AdrianCadar</string>
+    <string name="restaurante_dam">Restaurante DAM</string>
+    <string name="hamburguesa">Hamburguesa</string>
+    <string name="pizza">Pizza</string>
+    <string name="elige_el_producto">Elige el producto</string>
+</resources>
